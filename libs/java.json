@@ -145,6 +145,7 @@
   {"id": "java.reactive-streams", "imports": ["org.reactivestreams."], "name": "Reactive Streams", "repo": "reactive-streams/reactive-streams-jvm", "tags": ["stream-processing"], "tech": ["app-arch"]},
   {"id": "java.protocol-buffers", "imports": ["com.google.protobuf."], "name": "Protocol Buffers", "repo": "google/protobuf", "tags": ["encoding"], "tech": ["efficient-data"]},
   {"id": "java.j-ool", "imports": ["org.jooq.lambda."], "name": "jOOL", "repo": "jOOQ/jOOL", "tags": ["lambdas"], "tech": ["app-arch"]},
+  {"id": "java.jooq", "imports": ["org.jooq."], "name": "jOOQ", "repo": "jOOQ/jOOQ", "tags": ["database"], "tech": ["app-data"]},
   {"id": "java.tess4-j", "imports": ["net.sourceforge.tess4j."], "name": "Tess4J", "repo": "nguyenq/tess4j", "tags": ["ocr"], "tech": ["computer-vision"]},
   {"id": "java.redis", "imports": ["redis.clients.jedis."], "name": "Redis", "repo": "xetorthio/jedis", "tags": ["nosql"], "tech": ["storage"]},
   {"id": "java.cog-comp", "imports": ["edu.illinois.cs.cogcomp."], "name": "CogComp", "repo": "CogComp/cogcomp-nlp", "tags": ["toolkit"], "tech": ["nlp"]},
